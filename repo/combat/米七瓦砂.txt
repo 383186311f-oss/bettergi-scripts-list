@@ -1,0 +1,10 @@
+
+米提亚 e(hold)
+七七 e, attack
+瓦列里 e, attack, wait(0.5),q, ready
+砂糖 attack, e
+米提亚 attack, charge(6), q, ready, check, attack, charge(5), e(hold),
+七七 e, attack
+瓦列里 e ,attack, wait(0.5), q, ready
+砂糖 attack ,e
+米提亚 attack, charge(6), q, ready, check, attack, charge(5)
